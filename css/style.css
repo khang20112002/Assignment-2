@@ -1,0 +1,12 @@
+header {
+    background: #CAB8FF !important;
+}
+
+footer {
+    background: #D6E5FA !important;
+    padding: 32px;
+}
+
+hr {
+    border: 1px red solid;
+}
