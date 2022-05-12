@@ -7,6 +7,8 @@ footer {
     padding: 32px;
 }
 
-hr {
-    border: 1px red solid;
+@media screen and (max-width: 800px) {
+    .row-2 p {
+        display: none;
+    }
 }
