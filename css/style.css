@@ -1,11 +1,22 @@
 header {
     background: #CAB8FF !important;
+  
+  
+}
+.navbar-light{
+    background-color: #937cc8;
+   
 }
 
 footer {
     background: #D6E5FA !important;
     padding: 32px;
 }
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
 
 @media screen and (max-width: 800px) {
     .row-2 p {
