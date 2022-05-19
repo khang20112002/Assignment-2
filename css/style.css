@@ -7,6 +7,9 @@ header {
     background-color: #937cc8;
    
 }
+.nav-bar{
+    background: pink;
+}
 
 footer {
     background: #D6E5FA !important;
