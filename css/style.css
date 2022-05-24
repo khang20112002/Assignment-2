@@ -7,12 +7,9 @@ header {
     background-color: #937cc8;
    
 }
-.nav-bar{
-    background: pink;
-}
 
 footer {
-    background: #D6E5FA !important;
+    background: #c6c6c6 !important;
     padding: 32px;
 }
 body{
@@ -23,8 +20,9 @@ body{
     margin-bottom: 20px;
 }
 
-@media screen and (max-width: 800px) {
-    .row-2 p {
-        display: none;
-    }
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
